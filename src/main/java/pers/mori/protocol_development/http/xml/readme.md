@@ -1,0 +1,3 @@
+JIBX原理
+
+必须生成字节码才可以encode decode成功
